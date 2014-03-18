@@ -93,3 +93,6 @@ Forking on github is same as cloning in the command line.
 ## Data Standards: Keeping Data Clean
 
 Please check out the [Open Knowledge Foundation's Data Standards](http://data.okfn.org/standards)!
+
+## personal info in the readme file
+Hi this is Ravi and this is my own git-fundamentals version
