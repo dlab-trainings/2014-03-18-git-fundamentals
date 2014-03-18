@@ -94,5 +94,11 @@ Forking on github is same as cloning in the command line.
 
 Please check out the [Open Knowledge Foundation's Data Standards](http://data.okfn.org/standards)!
 
+<<<<<<< HEAD
 ## personal info in the readme file
 Hi this is Ravi and this is my own git-fundamentals version
+=======
+## Dav's personal info
+
+Git is really cool!
+>>>>>>> 589095761c8d41db447d524c6a704ddca2b00285
