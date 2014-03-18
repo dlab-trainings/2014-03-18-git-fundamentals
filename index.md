@@ -94,7 +94,10 @@ Forking on github is same as cloning in the command line.
 
 Please check out the [Open Knowledge Foundation's Data Standards](http://data.okfn.org/standards)!
 
+## Dav's personal info
+
+Git is really cool!
+
 ## New links
 
 ...
-
