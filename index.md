@@ -57,6 +57,7 @@ Annex (Assistant)
    mostly works for OS X command line).
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [The visual github guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+ - [An interactive cheat sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
 ### Local Git expositors at UC Berkeley
 
@@ -98,6 +99,3 @@ Please check out the [Open Knowledge Foundation's Data Standards](http://data.ok
 
 Git is really cool!
 
-## New links
-
-...
