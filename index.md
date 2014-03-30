@@ -51,12 +51,13 @@ Annex (Assistant)
    other cheat sheets!)
  - [Gamified git](http://pcottle.github.io/learnGitBranching/)
  - GitHub sponsors [this](http://try.github.io/).
- - Where does "help" go from GitHub? [Here](http://help.github.io).
+ - Where does "help" go from GitHub? [Here](https://help.github.com).
  - @davclark is an awesome resource, himself! (when he's not being a jerk)
  - [Linux commands cheat sheet](http://www.pixelbeat.org/cmdline.html) (also
    mostly works for OS X command line).
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [The visual github guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+ - [An interactive cheat sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
 ### Local Git expositors at UC Berkeley
 
@@ -97,3 +98,4 @@ Please check out the [Open Knowledge Foundation's Data Standards](http://data.ok
 ## Dav's personal info
 
 Git is really cool!
+
